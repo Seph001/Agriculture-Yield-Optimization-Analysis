@@ -169,16 +169,16 @@ This project demonstrates proficiency in:
 Example:
 
 ## Executive Overview
-![image alt](
+![image alt](https://github.com/Seph001/Agriculture-Yield-Optimization-Analysis/blob/11d735b1d4e2d2f4ff74c6687c62aeed1a4fc521/Executive%20Overview.jpeg)
 
 ## Yield Performance
-![image alt](
+![image alt](https://github.com/Seph001/Agriculture-Yield-Optimization-Analysis/blob/11d735b1d4e2d2f4ff74c6687c62aeed1a4fc521/Yield%20Performance.jpeg)
 
 ## Farm Performance
-![image alt](
+![image alt](https://github.com/Seph001/Agriculture-Yield-Optimization-Analysis/blob/11d735b1d4e2d2f4ff74c6687c62aeed1a4fc521/Farm%20Performance.jpeg)
 
 ## Crop Performance
-![image alt](
+![image alt](https://github.com/Seph001/Agriculture-Yield-Optimization-Analysis/blob/11d735b1d4e2d2f4ff74c6687c62aeed1a4fc521/Crop%20Performace.jpeg)
 
 ---
 
