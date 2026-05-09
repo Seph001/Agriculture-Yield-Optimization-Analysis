@@ -169,23 +169,16 @@ This project demonstrates proficiency in:
 Example:
 
 ## Executive Overview
-![Executive Overview](Images/executive-overview.png)
+![image alt](
 
 ## Yield Performance
-![Yield Performance](Images/yield-performance.png)
+![image alt](
 
 ## Farm Performance
-![Farm Performance](Images/farm-performance.png)
+![image alt](
 
 ## Crop Performance
-![Crop Performance](Images/crop-performance.png)
+![image alt](
 
 ---
 
-# Project Structure
-```bash
-├── Data/
-├── Dashboard/
-├── Images/
-├── README.md
-└── Yield_Optimization_Analysis.pbix
